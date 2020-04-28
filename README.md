@@ -32,6 +32,9 @@ input programs, see [project/spec.pdf](project/spec.pdf).
 
     You can implement optimizations that already exist in LLVM, but it should not be just blind copy-and-paste; On Thursday, we'll give you a guideline on how to use existing LLVM libraries to implement them. For each sprint, one person (who is different from the previous sprint) in a team can be dedicated to implementing the existing optimizations.
 
+- Apr. 28: Assembly syntax (correct function/block name, comment, assert\_eq) and semantics (memory initialization) is updated.
+See [project/spec.pdf](project/spec.pdf).
+
 ## Assignments
 
 - Mar. 19: Assignment 1 is announced. See here: https://github.com/aqjune/swpp202001-assn1
