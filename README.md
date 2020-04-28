@@ -24,6 +24,14 @@ input programs, see [project/spec.pdf](project/spec.pdf).
 
 - Apr. 23: The way how a program inputs/outputs is updated. See [project/spec.pdf](project/spec.pdf).
 
+- Apr. 28: On Thursday, we'll upload a video+document about optimizations. This video+document will contain:
+
+    - More optimizations that might be helpful
+
+    - LLVM libraries that can be helpful for implementing the existing optimizations
+
+    You can implement optimizations that already exist in LLVM, but it should not be just blind copy-and-paste; On Thursday, we'll give you a guideline on how to use existing LLVM libraries to implement them. For each sprint, one person (who is different from the previous sprint) in a team can be dedicated to implementing the existing optimizations.
+
 ## Assignments
 
 - Mar. 19: Assignment 1 is announced. See here: https://github.com/aqjune/swpp202001-assn1
