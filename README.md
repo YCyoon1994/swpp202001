@@ -35,6 +35,9 @@ input programs, see [project/spec.pdf](project/spec.pdf).
 - Apr. 28: Assembly syntax (correct function/block name, comment, assert\_eq) and semantics (memory initialization) is updated.
 See [project/spec.pdf](project/spec.pdf).
 
+- Apr. 28: Please read [project/document.pdf](project/document.pdf) to see the
+documents that you need to submit before/during the team project.
+
 ## Assignments
 
 - Mar. 19: Assignment 1 is announced. See here: https://github.com/aqjune/swpp202001-assn1
