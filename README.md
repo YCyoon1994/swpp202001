@@ -45,6 +45,7 @@ The result is zero-extended. See [project/spec.pdf](project/spec.pdf).
 
 - Apr. 30: Add some guidline for documentation. See update in [project/document.pdf](project/document.pdf).
 
+- Apr. 30: Please make a team repository and add TAs as collaborators. see [issue 11](https://github.com/snu-sf-class/swpp202001/issues/11).
 
 ## Assignments
 
