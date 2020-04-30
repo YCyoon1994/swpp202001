@@ -47,6 +47,8 @@ The result is zero-extended. See [project/spec.pdf](project/spec.pdf).
 
 - Apr. 30: Please make a team repository and add TAs as collaborators. see [issue 11](https://github.com/snu-sf-class/swpp202001/issues/11).
 
+- Apr. 30: [project/optList.md](project/optList.md) contains the list of optimizations discussed so far & LLVM passes that will be helpful for their implementation.
+
 ## Assignments
 
 - Mar. 19: Assignment 1 is announced. See here: https://github.com/aqjune/swpp202001-assn1
