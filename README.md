@@ -41,6 +41,8 @@ documents that you need to submit before/during the team project.
 - Apr. 30: Binary operators / Integer comparisons now take the size of bitwidth of inputs (needed for correct evaluation of signed operations).
 The result is zero-extended. See [project/spec.pdf](project/spec.pdf).
 
+- Apr. 30: The skeleton for team project is announced: https://github.com/snu-sf-class/swpp202001-compiler.git .
+
 
 ## Assignments
 
