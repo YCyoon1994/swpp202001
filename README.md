@@ -43,6 +43,8 @@ The result is zero-extended. See [project/spec.pdf](project/spec.pdf).
 
 - Apr. 30: The skeleton for team project is announced: https://github.com/snu-sf-class/swpp202001-compiler.git .
 
+- Apr. 30: Add some guidline for documentation. See update in [project/document.pdf](project/document.pdf).
+
 
 ## Assignments
 
