@@ -49,6 +49,8 @@ The result is zero-extended. See [project/spec.pdf](project/spec.pdf).
 
 - Apr. 30: [project/optList.md](project/optList.md) contains the list of optimizations discussed so far & LLVM passes that will be helpful for their implementation.
 
+- May. 1: We made a FAQ list for the team project document here: [issue 12](https://github.com/snu-sf-class/swpp202001/issues/12)
+
 ## Assignments
 
 - Mar. 19: Assignment 1 is announced. See here: https://github.com/aqjune/swpp202001-assn1
